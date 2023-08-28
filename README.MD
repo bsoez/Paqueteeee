@@ -1,12 +1,12 @@
 # Modulo de prueba
 
-Instalacion del modulo:
+--Instalacion del modulo:
 
 bash
 
 $ npm install paqueteeee
 
-uso del modulo
+--uso del modulo
 js
 const paqueteeee=require('paqueteeee');
 
